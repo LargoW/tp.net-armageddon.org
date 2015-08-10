@@ -1,7 +1,7 @@
 ---
 name: "Baneblade"
 type: "WE"
-speed: "15cm"
+speed: "20cm"
 armour: "4+"
 cc: "6+"
 ff: "4+"
@@ -10,7 +10,7 @@ special_rules:
   - "reinforced-armour"
 notes:
   |
-    Critical Hit Effect: Destroyed. All units within 5cm of the model suffer a hit on a roll of 6+.
+    Critical Hit Effect: None.
 weapons:
   -
     id: "baneblade-battle-cannon"
